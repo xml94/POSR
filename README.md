@@ -1,2 +1,4 @@
 # POSR
- plant-relevant open set recognition
+ Plant-relevant open set recognition
+
+ The codes will come soon after organizing and checking.
