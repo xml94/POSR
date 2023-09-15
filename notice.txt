@@ -1,0 +1,8 @@
+when you train this model with new dataset, you can follow this file.
+first: prepare new dataset (train, val)
+second: create new python file to load new sub dataset(train, val ,test_known, test_unknown) ## like data/cow_face.py
+third: add root path of the new dataset in file config.py
+forth: add splits(known train classes and open set classes) in file data/open_set_splits/osr_splits.py
+fifth: modify file data/open_set_datasets.py
+        add data mapping to get_dataset_funcs dict,
+        add new dataset class splits in get_class_splits function
