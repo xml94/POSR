@@ -1,4 +1,3 @@
-# POSR
- Plant-relevant open set recognition
+# POSR (Plant-relevant Open Set Recognition)
 
- The codes will come soon after organizing and checking.
+ The utilization will be updated.
